@@ -2,7 +2,7 @@
 
 Code based off of tutorial at https://github.com/onurtacc/flask-todo-app
 
-Github repository at 
+Github repository at https://github.com/runlinwang/FlaskToDoList
 
 ## Features
 
